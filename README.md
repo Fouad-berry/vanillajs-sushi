@@ -12,34 +12,34 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ladunjexa/Vanilla-Sushi-Website" alt="contributors" />
+  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/ladunjexa/Vanilla-Sushi-Web" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/ladunjexa/Vanilla-Sushi-Website" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/ladunjexa/Vanilla-Sushi-Web" alt="last update" />
   </a>
-  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/network/members">
-    <img src="https://img.shields.io/github/forks/ladunjexa/Vanilla-Sushi-Website" alt="forks" />
+  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/network/members">
+    <img src="https://img.shields.io/github/forks/ladunjexa/Vanilla-Sushi-Web" alt="forks" />
   </a>
-  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/stargazers">
-    <img src="https://img.shields.io/github/stars/ladunjexa/Vanilla-Sushi-Website" alt="stars" />
+  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/stargazers">
+    <img src="https://img.shields.io/github/stars/ladunjexa/Vanilla-Sushi-Web" alt="stars" />
   </a>
-  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/issues/">
-    <img src="https://img.shields.io/github/issues/ladunjexa/Vanilla-Sushi-Website" alt="open issues" />
+  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/issues/">
+    <img src="https://img.shields.io/github/issues/ladunjexa/Vanilla-Sushi-Web" alt="open issues" />
   </a>
-  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ladunjexa/Vanilla-Sushi-Website.svg" alt="license" />
+  <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/ladunjexa/Vanilla-Sushi-Web.svg" alt="license" />
   </a>
 </p>
    
  <h4>
     <a href="https://vanilla-sushi-web.vercel.app/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website">Documentation</a>
+    <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/issues/">Report Bug</a>
+    <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/issues/">Request Feature</a>
+    <a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -155,8 +155,8 @@ Go to root folder and execute the following command in order to run the webapp:
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/Vanilla-Sushi-Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Vanilla-Sushi-Website" />
+<a href="https://github.com/ladunjexa/Vanilla-Sushi-Web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ladunjexa/Vanilla-Sushi-Web" />
 </a>
 
 
@@ -180,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Vanilla-Sushi-Website/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Vanilla-Sushi-Web/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,7 +189,7 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjex
 
 Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
 
-Project Link: [https://github.com/ladunjexa/Vanilla-Sushi-Website](https://github.com/ladunjexa/Vanilla-Sushi-Website)
+Project Link: [https://github.com/ladunjexa/Vanilla-Sushi-Web](https://github.com/ladunjexa/Vanilla-Sushi-Web)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
