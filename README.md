@@ -84,6 +84,7 @@ Here is the folder structure of VanillaSushi.
 ```bash
 Vanila-Sushi-Web/
 |- assets/
+|- css/
     |-- sections/
         |-- about.css
         |-- footer.css
@@ -93,7 +94,6 @@ Vanila-Sushi-Web/
         |-- subscribe.css
         |-- trending.css
     |-- style.css
-|- css/
 |- js/
     |-- script.js
 |- public/
