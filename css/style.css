@@ -93,10 +93,11 @@ a {
   margin: 32px 0px;
 }
 
-/* New css add */
+/* Create an underline effect on hover,
+   which animates from 0% to 100% width, changing the color*/
 .header__menu li a {
   text-decoration: none;
-  color: #333;
+  color: var(--black-300);
   font-size: 16px;
   position: relative;
   transition: color 0.3s;
@@ -106,17 +107,19 @@ a {
   position: absolute;
   width: 0%;
   height: 2px;
-  background-color: #e74c3c;
+  background-color: var(--primary-color);
   left: 0;
   bottom: -5px;
   transition: width 0.3s;
 }
 .header__menu li a:hover {
-  color: #e74c3c;
+  color: var(--primary-color);
 }
 .header__menu li a:hover::after {
   width: 100%;
 }
+
+/* End*/
 
 
 /* Hide scrollbar for Chrome, Safari and Opera */
